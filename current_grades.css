@@ -1,0 +1,13 @@
+header {
+    background-color: indianred;
+}
+
+table, td, th {
+    border: solid black 1px;
+    border-collapse:collapse;
+}
+
+td, th {
+    padding:4px;
+}
+
